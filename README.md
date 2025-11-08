@@ -33,22 +33,19 @@ The goal of this project was to:
 ## 🧩 Process
 
 1. **Exploration:**  
-   - Analyzed demographics, engagement, and spending behavior across responders and non-responders.  
+   - Analyzed demographics across responders and non-responders.  
 
-2. **Cleaning:**  
-   - Handled missing income values, standardized categorical fields, and removed outliers.  
+2. **Feature Engineering:**  
+   - Created total spend and response features to capture engagement and customer value.  
 
-3. **Feature Engineering:**  
-   - Created total spend and recency features to capture engagement and customer value.  
+3. **Modeling:**  
+   - Trained an XGBoost classifier to predict campaign response.  
 
-4. **Modeling:**  
-   - Trained and compared Logistic Regression and XGBoost classifiers to predict campaign response.  
-
-5. **Selection Optimization:**  
+4. **Selection Optimization:**  
    - Ranked leads by predicted probability and simulated targeting different subsets of the population.  
 
-6. **Evaluation:**  
-   - Compared full-campaign results with model-based targeting to calculate profitability and ROI.
+5. **Evaluation:**  
+   - Compared full-campaign results with model-based targeting to calculate profitability.
 
 ---
 
