@@ -36,7 +36,7 @@ The goal of this project was to:
    - Analyzed demographics across responders and non-responders.  
 
 2. **Feature Engineering:**  
-   - Created total spend and response features to capture engagement and customer value.  
+   - Created additional response and total spend features to capture engagement and customer value.  
 
 3. **Modeling:**  
    - Trained an XGBoost classifier to predict campaign response.  
@@ -57,7 +57,7 @@ The goal of this project was to:
 | ROI | -45% | +104% |
 | Response Rate | 15% | 56% |
 
-**Key Insight:** Predictive lead scoring improved profitability by approximately **130%** by mailing to the top 20% of predicted responders instead of the full list.
+**Key Insight:** Predictive lead scoring improved profitability by **131%** by mailing to the top 14% of predicted responders instead of the full list.
 
 ---
 
