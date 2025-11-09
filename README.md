@@ -57,7 +57,7 @@ The goal of this project was to:
 | ROI | -45% | +104% |
 | Response Rate | 15% | 56% |
 
-**Key Insight:** Predictive lead scoring decreased customer acquisition cost by **-73%** and improved profitability by **+131%** by mailing to the top 14% of predicted responders instead of the full list.
+**Key Insight:** Predictive lead scoring improved profitability by **+131%** by mailing to the top 14% of predicted responders instead of the full list.
 
 ---
 
