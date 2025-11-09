@@ -61,15 +61,6 @@ The goal of this project was to:
 
 ---
 
-## 📊 Visuals
-Include these screenshots or plots (save them in an `images/` folder and link them below):
-
-![Lift Chart](images/lift_chart.png)
-![Profit Comparison](images/profit_comparison.png)
-![Feature Importance](images/feature_importance.png)
-
----
-
 ## 💡 Takeaways
 - Predictive modeling can transform underperforming campaigns into profitable ones.  
 - Even modest targeting improves ROI and reduces wasted marketing spend.  
