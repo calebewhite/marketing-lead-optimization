@@ -64,12 +64,12 @@ The goal of this project was to:
 ## 💡 Takeaways
 - Predictive modeling can transform underperforming campaigns into profitable ones.  
 - Even modest targeting improves ROI and reduces wasted marketing spend.  
-- The same workflow can be adapted for email, digital ads, or direct mail campaigns.  
+- The same workflow can be adapted for email, digital ads or direct mail campaigns.  
 
 ---
 
 ## 🧱 Next Steps
-- Integrate cost-sensitive learning for better budget optimization.  
+- Integrate model into campaign workflow.  
 - Automate model retraining with new campaign data.  
 - Extend to multi-channel marketing analysis.
 
