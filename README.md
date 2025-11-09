@@ -76,7 +76,7 @@ The goal of this project was to:
 ---
 
 ## 📓 Notebook
-👉 [View the full Jupyter Notebook](notebooks/lead_scoring.ipynb)
+👉 [View the full Jupyter Notebook](notebooks/2025_Kattle_Marketing_Optimization.ipynb)
 
 ---
 
