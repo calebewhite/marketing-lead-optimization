@@ -54,8 +54,8 @@ The goal of this project was to:
 | Metric | Full Campaign | Model-Selected Subset |
 |--------|----------------|----------------|
 | Net Profit | **-$607** | **+$191** |
-| ROI | -6% | +4% |
-| Response Rate | 14% | 23% |
+| ROI | -45% | +104% |
+| Response Rate | 15% | 56% |
 
 **Key Insight:** Predictive lead scoring improved profitability by approximately **130%** by mailing to the top 20% of predicted responders instead of the full list.
 
