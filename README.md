@@ -1,9 +1,9 @@
-# 🧠 Predictive Lead Scoring — Turning a -$607 Loss into a $191 Profit
+# 🧠 Predictive Lead Scoring: Turning a -$607 Loss into a $191 Profit
 
 ## 📋 Overview
 This project demonstrates how predictive modeling can improve marketing ROI.  
-I analyzed a marketing campaign dataset to identify the characteristics of ideal leads and build a machine learning model to predict response probability.  
-Using this model to select a subset of leads turned a full campaign that lost **$607** into one that would have made **a $191 profit**.
+I analyzed a marketing campaign dataset to identify the characteristics of ideal leads, and built a machine learning model to predict response probability.  
+Using this model to select a subset of leads turned a campaign that lost **$607** into one that would have made **a $191 profit**.
 
 ---
 
