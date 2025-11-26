@@ -3,7 +3,7 @@
 ## 📋 Overview
 This project demonstrates how predictive modeling can improve marketing ROI.  
 I analyzed a marketing campaign dataset to identify the characteristics of ideal leads and built a machine learning model to predict response probability.  
-Using this model to select a subset of leads turned a campaign that lost **$607** into one that would have made a **$191 profit**.
+Using this model to select a subset of leads turned a campaign that **lost $607** into one that would have made a **$191 profit**.
 
 ---
 
