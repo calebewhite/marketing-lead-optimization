@@ -1,13 +1,13 @@
-# 🧠 Predictive Lead Scoring: Turning a -$607 Loss into a $191 Profit
+# Predictive Lead Scoring: Turning a -$607 Loss into a $191 Profit
 
-## 📋 Overview
+## Overview
 This project demonstrates how predictive modeling can improve marketing ROI.  
 I analyzed a marketing campaign dataset to identify the characteristics of ideal leads and built a machine learning model to predict response probability.  
 Using this model to select a subset of leads turned a campaign that **lost $607** into one that would have made a **$191 profit**.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 Marketing teams often send campaigns to large audiences without knowing who will respond.  
 The goal of this project was to:
 - Identify which customer attributes drive response.  
@@ -16,21 +16,21 @@ The goal of this project was to:
 
 ---
 
-## 🧾 Data
+## Data
 - **Source:** [Kaggle Marketing Campaign Dataset](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)  
 - **Size:** 2,240 records, 28 features  
 - **Key Variables:** Recency, Income, Spending, Campaign Response  
 
 ---
 
-## 🛠️ Tools & Methods
+## Tools & Methods
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Scikit-optimize, XGBoost  
 - **Techniques:** Exploratory Data Analysis, Feature Engineering, Classification Modeling, ROI Simulation
 
 ---
 
-## 🧩 Process
+## Process
 
 1. **Exploration:**  
    - Analyzed demographics across responders and non-responders.  
@@ -49,7 +49,7 @@ The goal of this project was to:
 
 ---
 
-## 📈 Results
+## Results
 
 | Metric | Full Campaign | Model-Selected Subset |
 |--------|----------------|----------------|
@@ -61,26 +61,26 @@ The goal of this project was to:
 
 ---
 
-## 💡 Takeaways
+## Takeaways
 - Predictive modeling can transform underperforming campaigns into profitable ones.  
 - Even modest targeting improves ROI and reduces wasted marketing spend.  
 - The same workflow can be adapted for email, digital ads or direct mail campaigns.  
 
 ---
 
-## 🧱 Next Steps
+## Next Steps
 - Integrate model into campaign workflow.  
 - Automate model retraining with new campaign data.  
 - Extend to multi-channel marketing analysis.
 
 ---
 
-## 📓 Notebook
-👉 [View the full Jupyter Notebook](notebooks/marketing_lead_optimization.ipynb)
+## Notebook
+[View the full Jupyter Notebook](notebooks/marketing_lead_optimization.ipynb)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 Python • Scikit-learn • Pandas • Matplotlib • XGBoost • Jupyter Notebook  
 
 ---
