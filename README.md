@@ -85,7 +85,7 @@ Python • Scikit-learn • Pandas • Matplotlib • XGBoost • Jupyter Notebo
 
 ---
 
-## 👤 Author
+## Author
 **Caleb White**  
-📫 [LinkedIn](https://linkedin.com/in/calebelwoodwhite) • [GitHub](https://github.com/calebewhite)
+ [LinkedIn](https://linkedin.com/in/calebelwoodwhite) • [GitHub](https://github.com/calebewhite)
 
